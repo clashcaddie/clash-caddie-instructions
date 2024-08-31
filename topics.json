@@ -1,0 +1,20 @@
+{
+    "topics": [
+        {
+            "key": "accounts",
+            "title": "Accounts",
+            "sections": [
+                { "type": "text", "content": "This is some text content for Accounts." },
+                { "type": "image", "content": "1" }
+            ]
+        },
+        {
+            "key": "cpc",
+            "title": "CPC Mode",
+            "sections": [
+                { "type": "text", "content": "This is some text content for Another Topic." },
+                { "type": "image", "content": "1" }
+            ]
+        }
+    ]
+}
